@@ -49,8 +49,8 @@ h2 {
 
 .slika{
     float: right ;
+    border: 1px solid red;
     margin-left: 2em;
-    border-top:  3px solid red;
     font-size: 0.9em;
     width: 40%;
     text-align: left;
@@ -59,4 +59,13 @@ h2 {
 .slika img{
     width: 100%;
     height: auto;
+    border-radius: 50%;
 }
+
+.slika p:last-child{
+    background-color: #cc0000;
+    font-size: 0.8em;
+}
+
+
+
