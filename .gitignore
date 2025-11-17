@@ -13,6 +13,9 @@
 *.pdf
 *.pyc
 *.synctex.gz
+*.ilg
+*.idx
+*.ind
 
 # MacOS
 __MACOSX
